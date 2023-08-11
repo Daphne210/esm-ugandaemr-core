@@ -3836,7 +3836,6 @@ __metadata:
     react-router-dom: ^6.3.0
     rxjs: ^6.5.3
     single-spa: ^5.9.2
-    swc-loader: ^0.2.3
     systemjs: ^6.8.3
     workbox-core: ^6.1.5
     workbox-routing: ^6.1.5
