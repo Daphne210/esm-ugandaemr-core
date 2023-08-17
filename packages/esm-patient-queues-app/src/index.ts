@@ -29,7 +29,7 @@ function setupOpenMRS() {
     pages: [
       {
         load: getAsyncLifecycle(
-          () => import('./queue-patient-linelists/scheduled-appoin)tments-table.component'),
+          () => import('./queue-patient-linelists/scheduled-appointments-table.component'),
           options,
         ),
         route: /^appointments-list/,
